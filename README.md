@@ -10,6 +10,6 @@ A program to search phrases offered in autocomplete.
 Implementation of a function which clips line segment into given rectangle.
 
 ### linked_list.c
-Implementation of a functions which manipulates an archive stored as LL. The archive holds structures that describe the settings needed to control combustion engines of certain type.
+Implementation of functions which manipulates an archive stored as LL. The archive holds structures that describe the settings needed to control combustion engines of certain type.
 
-The above mentioned tasks were provided by Czech Technical University in Prague, and the solutions were submitted as homework assignments. All the solutions received 100% score.
+The above mentioned tasks were provided by Czech Technical University in Prague, and the solutions were submitted as homework assignments. All of the solutions received 100% score.
